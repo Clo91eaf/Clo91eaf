@@ -1,4 +1,3 @@
-![](./pic.png)
 - 🔭 I’m currently working on hemu.
 - 🌱 I’m currently learning rust language and computer architecture.
 - 👯 I’m looking to collaborate on hangzhou dianzi university architecture lab.
