@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on hemu.
+- 🔭 I’m currently working on hemu and ysyx project.
 - 🌱 I’m currently learning rust language and computer architecture.
 - 👯 I’m in the hangzhou dianzi university architecture lab.
 - 📫 How to reach me: Clo91eaf@qq.com.
