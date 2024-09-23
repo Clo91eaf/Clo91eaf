@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on hemu and ysyx project.
-- 🌱 I’m currently learning rust language and computer architecture.
+- 🔭 I’m currently working on t1 project.
+- 🌱 I’m currently learning rust language and formal verification.
 - 👯 I’m in the plct lab caat team.
 - 📫 How to reach me: Clo91eaf@qq.com.
